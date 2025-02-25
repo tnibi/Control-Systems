@@ -8,8 +8,8 @@
 
 Pendulum Down
 
-![image](https://github.com/Tolemy21/Control-Systems/blob/main/Media/1DOF_Pendulum_down.PNG)
+![image](https://github.com/tnibi/Control-Systems/blob/main/Media/Pendulum%20Media/1DOF_Pendulum_down.PNG)
 
 Pendulum Up
 
-![image](https://github.com/Tolemy21/Control-Systems/blob/main/Media/1DOF_Pendulum_up.PNG)
+![image](https://github.com/tnibi/Control-Systems/blob/main/Media/Pendulum%20Media/1DOF_Pendulum_up.PNG)
