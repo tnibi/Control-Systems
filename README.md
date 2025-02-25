@@ -25,11 +25,11 @@
 
 Pendulum Down
 
-![image](https://github.com/Tolemy21/Control-Systems/blob/main/Media/1DOF_Pendulum_down.PNG)
+![image](https://github.com/tnibi/Control-Systems/blob/main/Media/Pendulum%20Media/1DOF_Pendulum_down.PNG)
 
 Pendulum Up
 
-![image](https://github.com/Tolemy21/Control-Systems/blob/main/Media/1DOF_Pendulum_up.PNG)
+![image](https://github.com/tnibi/Control-Systems/blob/main/Media/Pendulum%20Media/1DOF_Pendulum_up.PNG)
 
 # Inverted Pendulum Cart
-![image](https://github.com/Tolemy21/Control-Systems/blob/main/Media/2DOF_Inverted%20Pendulum_Cart.PNG)
+![image](https://github.com/tnibi/Control-Systems/blob/main/Media/Inverted%20Pendulum%20Cart%20Media/2DOF_Inverted%20Pendulum_Cart.PNG)
