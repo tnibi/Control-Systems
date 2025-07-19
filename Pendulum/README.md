@@ -27,5 +27,3 @@ Without Friction
 With Friction 
 
 ![gif](https://github.com/tnibi/Control-Systems/blob/main/Media/Pendulum%20Media/Pendulum%20Animations/(Up)%20pendulum_animation_with_friction.gif)
-
-
